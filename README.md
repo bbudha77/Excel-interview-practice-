@@ -20,6 +20,9 @@ The sales dataset contains transaction records, including the date, product type
 ### Data Explanation:
 The customer churn dataset records customer information, including their join date, last activity date, monthly plan value, and current status (active or churned). It helps businesses track customer retention, understand churn behavior, and identify potential improvements in customer engagement and pricing strategies.
 
+
+![image alt](https://github.com/bbudha77/Excel-interview-practice-/blob/65863af92e956a55b895c397245ef0d39be394be/Screenshot%202025-02-28%20222012.png)
+
 ### Lessons Learned:
 - `COUNTIFS()` and `AVERAGEIFS()` are essential for filtering data.
 - `IF()` with `TODAY()` helps track recency-based conditions.
