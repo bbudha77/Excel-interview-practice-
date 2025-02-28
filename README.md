@@ -5,6 +5,8 @@
 ### Data Explanation:
 The sales dataset contains transaction records, including the date, product type, sales region, sales representative, quantity sold, unit price, and total revenue. This data helps in analyzing revenue distribution across different regions, identifying top-performing sales representatives, and evaluating product sales trends to make informed business decisions.
 
+  ![image alt](https://github.com/bbudha77/Excel-interview-practice-/blob/e2f7d29f613f30530b66afc9e8815511716ee471/Screenshot%202025-02-28%20221741.png)
+  
 ### Lessons Learned:
 - Pivot Tables are powerful for summarizing data quickly.
 - `SUMIFS()` is useful for filtering and summing data based on conditions.
