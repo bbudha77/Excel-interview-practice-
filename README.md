@@ -54,7 +54,7 @@ The customer churn dataset records customer information, including their join da
 ### Data Explanation:
 The employee performance dataset includes details on department, tasks completed, hours worked, and efficiency percentage. This data helps monitor productivity, highlight high-performing employees, and assess workload distribution across different departments to optimize workforce efficiency.
 
-![image alt](https://github.com/bbudha77/Excel-interview-practice-/blob/1ade054b91be4bc7e27fde1e532177fc125648eb/Screenshot%202025-02-28%20222137.png)
+![image alt](https://github.com/bbudha77/Excel-interview-practice-/blob/eacaa8753aeed9563e1901981c03d5ce93d6dd88/Screenshot%202025-02-28%20224930.png)
 
 ### Lessons Learned:
 - Efficiency formulas provide clear performance metrics.
