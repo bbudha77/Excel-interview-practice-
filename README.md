@@ -5,6 +5,16 @@
 ### Data Explanation:
 The sales dataset contains transaction records, including the date, product type, sales region, sales representative, quantity sold, unit price, and total revenue. This data helps in analyzing revenue distribution across different regions, identifying top-performing sales representatives, and evaluating product sales trends to make informed business decisions.
 
+Business questions are listed below:
+
+1. Find total revenue for each region using a Pivot Table.
+
+2. Calculate the total sales made by each Sales Rep using SUMIFS().
+
+3. Create a bar chart to compare total revenue by region.
+
+4. Highlight the top 5 highest sales transactions using Conditional Formatting.
+
   ![image alt](https://github.com/bbudha77/Excel-interview-practice-/blob/e2f7d29f613f30530b66afc9e8815511716ee471/Screenshot%202025-02-28%20221741.png)
   
 ### Lessons Learned:
@@ -19,6 +29,15 @@ The sales dataset contains transaction records, including the date, product type
 
 ### Data Explanation:
 The customer churn dataset records customer information, including their join date, last activity date, monthly plan value, and current status (active or churned). It helps businesses track customer retention, understand churn behavior, and identify potential improvements in customer engagement and pricing strategies.
+
+
+1. Calculate the number of active and churned customers using COUNTIFS().
+
+2. Find the average Monthly Plan value for churned customers using AVERAGEIFS().
+
+3. Identify customers who haven't used the service in the last 6 months using IF() and TODAY().
+
+4. Create a Pie Chart to show the proportion of Active vs. Churned customers
 
 
 ![image alt](https://github.com/bbudha77/Excel-interview-practice-/blob/65863af92e956a55b895c397245ef0d39be394be/Screenshot%202025-02-28%20222012.png)
