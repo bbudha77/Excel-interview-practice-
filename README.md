@@ -60,6 +60,8 @@ The employee performance dataset includes details on department, tasks completed
 - `TRIM()` helps clean unnecessary spaces, making data more uniform.
 - `SUBSTITUTE()` is valuable for standardizing inconsistent data formats.
 
+  ![image alt](https://github.com/bbudha77/Excel-interview-practice-/blob/177564369034045b5d9c3b2549cbed0272de7115/Screenshot%202025-02-28%20222152.png)
+
 ---
 
 ## Final Thoughts
@@ -74,5 +76,3 @@ Happy Analyzing!
 
 
 
-
-![image alt](https://github.com/bbudha77/Excel-interview-practice-/blob/1ade054b91be4bc7e27fde1e532177fc125648eb/Screenshot%202025-02-28%20222137.png)
