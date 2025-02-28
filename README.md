@@ -33,4 +33,46 @@ The customer churn dataset records customer information, including their join da
 ## Case Study 3: Employee Performance Dashboard
 
 ### Data Explanation:
-The employee performance dataset includes details on depar
+The employee performance dataset includes details on department, tasks completed, hours worked, and efficiency percentage. This data helps monitor productivity, highlight high-performing employees, and assess workload distribution across different departments to optimize workforce efficiency.
+
+![image alt](https://github.com/bbudha77/Excel-interview-practice-/blob/1ade054b91be4bc7e27fde1e532177fc125648eb/Screenshot%202025-02-28%20222137.png)
+
+### Lessons Learned:
+- Efficiency formulas provide clear performance metrics.
+- `LARGE()` and `INDEX()` help in ranking and retrieving top records.
+- Conditional Formatting enhances readability of key insights.
+- Pivot Tables with Slicers make dashboards dynamic and user-friendly.
+
+---
+
+## Excel Formula Challenge
+
+### Lessons Learned:
+- The `LARGE()` function is useful for ranking data without sorting.
+- Understanding indexed ranking helps in dynamic analysis.
+
+---
+
+## Data Cleaning Challenge
+
+### Lessons Learned:
+- `PROPER()` ensures consistency in text formatting.
+- `TRIM()` helps clean unnecessary spaces, making data more uniform.
+- `SUBSTITUTE()` is valuable for standardizing inconsistent data formats.
+
+---
+
+## Final Thoughts
+- Structuring data properly makes analysis easier.
+- Using the right Excel functions can save significant time.
+- Data visualization and formatting improve decision-making.
+- Dynamic dashboards provide better interactivity and insights.
+
+Happy Analyzing!
+
+
+
+
+
+
+![image alt](https://github.com/bbudha77/Excel-interview-practice-/blob/1ade054b91be4bc7e27fde1e532177fc125648eb/Screenshot%202025-02-28%20222137.png)
