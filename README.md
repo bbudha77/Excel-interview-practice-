@@ -47,6 +47,8 @@ The employee performance dataset includes details on department, tasks completed
 
 ## Excel Formula Challenge
 
+
+![image alt](https://github.com/bbudha77/Excel-interview-practice-/blob/cc9c994418759ef795a003c8314ef9aba7d73645/Screenshot%202025-02-28%20223633.png)
 ### Lessons Learned:
 - The `LARGE()` function is useful for ranking data without sorting.
 - Understanding indexed ranking helps in dynamic analysis.
