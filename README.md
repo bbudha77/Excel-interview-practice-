@@ -5,7 +5,7 @@
 ### Data Explanation:
 The sales dataset contains transaction records, including the date, product type, sales region, sales representative, quantity sold, unit price, and total revenue. This data helps in analyzing revenue distribution across different regions, identifying top-performing sales representatives, and evaluating product sales trends to make informed business decisions.
 
-Business questions are listed below:
+Tasks:
 
 1. Find total revenue for each region using a Pivot Table.
 
@@ -30,6 +30,7 @@ Business questions are listed below:
 ### Data Explanation:
 The customer churn dataset records customer information, including their join date, last activity date, monthly plan value, and current status (active or churned). It helps businesses track customer retention, understand churn behavior, and identify potential improvements in customer engagement and pricing strategies.
 
+Tasks:
 
 1. Calculate the number of active and churned customers using COUNTIFS().
 
@@ -52,7 +53,19 @@ The customer churn dataset records customer information, including their join da
 ## Case Study 3: Employee Performance Dashboard
 
 ### Data Explanation:
-The employee performance dataset includes details on department, tasks completed, hours worked, and efficiency percentage. This data helps monitor productivity, highlight high-performing employees, and assess workload distribution across different departments to optimize workforce efficiency.
+The employee performance dataset includes details on department, tasks completed, hours worked, and efficiency percentage. This data helps monitor productivity, highlight high-performing employees, and assess workload distribution across different departments to optimize workforce efficiency.  
+
+Tasks:
+
+1. Calculate Efficiency (%) using the formula:
+
+= (Tasks Completed / Hours Worked) * 100
+
+2. Find the top-performing employee using LARGE() and INDEX().
+
+3. Use Conditional Formatting to highlight employees with efficiency above 30%.
+
+4. Create a dynamic dashboard using a Pivot Table and Slicers.
 
 ![image alt](https://github.com/bbudha77/Excel-interview-practice-/blob/eacaa8753aeed9563e1901981c03d5ce93d6dd88/Screenshot%202025-02-28%20224930.png)
 
@@ -67,6 +80,10 @@ The employee performance dataset includes details on department, tasks completed
 ## Excel Formula Challenge
 
 
+Task: 
+
+Write a formula to find the third highest revenue in a sales dataset.
+
 ![image alt](https://github.com/bbudha77/Excel-interview-practice-/blob/cc9c994418759ef795a003c8314ef9aba7d73645/Screenshot%202025-02-28%20223633.png)
 ### Lessons Learned:
 - The `LARGE()` function is useful for ranking data without sorting.
@@ -75,6 +92,15 @@ The employee performance dataset includes details on department, tasks completed
 ---
 
 ## Data Cleaning Challenge
+
+
+Task: Clean the data using Excel functions like:
+
+=PROPER(A2) ' Fixes capitalization
+
+=TRIM(B2) ' Removes extra spaces
+
+=SUBSTITUTE(C2, "-", "") ' Removes dashes
 
 ### Lessons Learned:
 - `PROPER()` ensures consistency in text formatting.
