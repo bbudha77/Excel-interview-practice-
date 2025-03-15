@@ -1,4 +1,4 @@
-# README - Case Studies and Lessons Learned
+# Case Studies and Lessons Learned
 
 ## Case Study 1: Sales Data Analysis
 
