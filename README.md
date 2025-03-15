@@ -1,4 +1,4 @@
-# README - Excel Case Studies and Lessons Learned
+# README - HR Case Studies and Lessons Learned
 
 ## Case Study 1: Sales Data Analysis
 
